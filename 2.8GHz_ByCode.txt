@@ -1,0 +1,7 @@
+**For Rogers RT5880 (lossy) Use My Zip File API Otherwise Roger Class missing
+**2.8GHz_ByCode.m Port 1 properties Zpos = 15 must be given after code run.
+  RUN file
+  Go CST
+  find port folder 
+  go port 1
+  set Zpos=15 (try to solve this by code, but i can't solve this!!!)
